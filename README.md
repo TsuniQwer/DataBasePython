@@ -2,6 +2,7 @@
 SQLite module
 
 '''
+
 ru.
 
 В информационной системе общежитие учитываются когда студент заселился - выселился, какая группа студента.
@@ -17,6 +18,7 @@ There is also detailed information for each room.
 The information system keeps a record of the student's name, sex, date of birth, home address, phone number. 
 The student dormitory is engaged in accounting of all students living there. The main functions of the hostel information system are:
 keep a report on the student's residence; by room; by the student's supervisor; and more detailed information of the student.
+
 
 '''
 
