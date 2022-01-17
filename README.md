@@ -24,7 +24,7 @@ keep a report on the student's residence; by room; by the student's supervisor; 
 
 
 ```
-![alt text](rdi diagram.png "Описание будет тут")
+![alt text](https://github.com/TsuniQwer/DataBasePython/blob/main/rdi%20diagram.PNG "Описание будет тут")
 
 1) In the python file, you need to specify your path for the "db_path" variable to the test.db file.
 2) Сhange the data in the table, create another table (if you want).
